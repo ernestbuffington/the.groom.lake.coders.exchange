@@ -9,7 +9,7 @@
 
 <h2>PHP-Nuke Titanium v4.0.4 2023 Nightly Build Repo</h2>
 
-<p>Support Website for PHP-Nuke Titanium can be found at https://www.php-nuke-titanium.86it.us</p>
+<p>The Support Website for PHP-Nuke Titanium can be found at https://www.php-nuke-titanium.86it.us</p>
 
 <h2>The Groom Lake Coders Exchange Developers</h2>
 

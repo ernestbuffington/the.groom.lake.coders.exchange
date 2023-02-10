@@ -42,6 +42,7 @@
 	<li>ScottyBcoder</li>
 	<li>UniKCode</li>
 	<li>Cobalt74</li>
+	<li>GazJ</li>
 </ul>
 
 <h2>PHP-Nuke Titanium v4.0.4 Flash Game, and Movie Support for 2022</h2>

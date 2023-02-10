@@ -14,9 +14,12 @@
 <h2>The Groom Lake Coders Exchange Developers</h2>
 
 <ul>
-	<li>Ernest Allen Buffington (Lead Core Developer)</li>
-	<li>Winston Terrance Wolfe</li>
-	<li>Bob Marion</li> 
+	<li>Ernest Allen Buffington (TheGhost)</li>
+	<li>Francisco Burzi (Administrator)</li>
+	<li>Winston Terrance Wolfe (TheWolf)</li>
+	<li>Bob Marion (NukeSheriff)</li>
+	<li>Dan Cooper (CodeBuzzard)</li>
+	<li>Tomas Votruba (Rector)</li> 
 </ul>
 
 <h2>PHP-Nuke Titanium v4.0.4 Core Contributors</h2>

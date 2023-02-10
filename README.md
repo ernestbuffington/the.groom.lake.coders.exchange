@@ -11,7 +11,7 @@
 
 <p>The Support Website for PHP-Nuke Titanium can be found at https://www.php-nuke-titanium.86it.us</p>
 
-<h2>The Groom Lake Coders Exchange Developers</h2>
+<h2>The Groom Lake Coders Exchange Developer List</h2>
 
 <ul>
 	<li>Ernest Allen Buffington (TheGhost)</li>

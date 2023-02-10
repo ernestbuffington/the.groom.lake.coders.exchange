@@ -22,6 +22,7 @@
 	<li>Tomas Votruba (Rector)</li>
 	<li>Cy Borges (CyBorg)</li> 
 	<li>Truman Scott Buffington (ScottyBcoder)</li> 
+	<li>Anthony Mazzola (ToneLuke)</li> 
 </ul>
 
 <h2>PHP-Nuke Titanium v4.0.4 Core Contributors</h2>
